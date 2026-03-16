@@ -7,7 +7,7 @@ This project presents an interactive Power BI dashboard that analyzes COVID-19 m
 The goal of this project is to transform raw COVID-19 data into meaningful insights through data transformation, measures, and interactive visualizations.
 
 📂 Dataset
-
+Link: https://data.cdc.gov/National-Center-for-Health-Statistics/Conditions-Contributing-to-COVID-19-Deaths-by-Stat/hk9y-quqm/about_data
 The dataset used in this project was obtained from public COVID-19 mortality data sources and includes information such as:
 
 Age groups
